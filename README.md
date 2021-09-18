@@ -4,7 +4,7 @@ Electrical power systems are mainly composed of three parts as Generation, Trans
 
 In this repo, I have covered loadflow analysis and short circuit analysis on different systems
 
-## LoadFlow Analysis
+## Load Flow Analysis
 
 Loadflow analysis provide insights about how much power flown in the system at respective points
 
