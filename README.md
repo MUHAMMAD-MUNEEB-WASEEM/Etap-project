@@ -21,6 +21,7 @@ on the American National Standard Institute (ANSI). Etap is the most comprehensi
 
 ## Systems
 
-* 5-Bus IEEE System
 * 9-Bus IEEE System
+* 5-Bus IEEE System
 * 4-Bus IEEE System
+* 3-Bus IEEE System
